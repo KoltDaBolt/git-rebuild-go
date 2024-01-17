@@ -1,5 +1,5 @@
 # git-rebuild-go
-This repository is me rebuilding (for learning and fun) the core functionality of Git in the Go programming langauge.
+A Rebuild of Git's core functionality in Go.
 
 ## IMPORTANT: What this application can not do!
 This application is not meant to be a full substitute for Git, and lacks many safety, error checking / handling, and common features found in Git.
